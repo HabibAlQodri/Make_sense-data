@@ -1,4 +1,4 @@
-# 04 · Make Sense of Data with Analysis and AI
+# Make Sense of Data with Analysis and AI
 
 Alur analisis data lengkap dalam satu file: **EDA → standardisasi → PCA → KMeans (pilih k via silhouette) → insight teks otomatis**.
 Dataset: *wine* (bawaan scikit-learn).
